@@ -1,5 +1,13 @@
 # Прогнозирование повторной госпитализации пациентов с диабетом
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
 ## Описание проекта
 
 Проект решает задачу **классификации**: предсказать, будет ли пациент с диабетом повторно госпитализирован, на основе данных о 130 больницах США за 1999–2008 гг. Задача важна с практической точки зрения — понимание риска повторной госпитализации позволяет скорректировать лечение и снизить нагрузку на систему здравоохранения.
